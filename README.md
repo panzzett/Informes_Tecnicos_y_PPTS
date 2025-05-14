@@ -1,32 +1,23 @@
-# 🧾 Informes Técnicos | Pliegos de Prescripciones Técnicas
+# 🛡️ Informes Técnicos | Pliegos de Prescripciones Técnicas TIC
 
-Este repositorio contiene una recopilación de informes técnicos elaborados en el contexto de contratación pública TIC, especialmente relacionados con infraestructuras en la nube, seguridad, servicios gestionados y administración electrónica.
+Este repositorio recoge informes técnicos y pliegos de prescripciones redactados en el contexto de la contratación pública TIC. Reflejan mi experiencia en la definición de requisitos funcionales, criterios técnicos y medidas de seguridad en entornos de administración pública.
 
-Los documentos han sido redactados como parte de mis funciones como Técnico Informático en Administración Pública, y muestran mi capacidad para analizar requisitos, estructurar servicios tecnológicos y redactar prescripciones técnicas de forma rigurosa y conforme a normativa.
+## 📄 Informe destacado (documento oficial publicado)
 
-## 👤 Perfil profesional
+🗂 **Pliego de Condiciones Técnicas para la contratación de un Servicio de Ciberseguridad (MDR/EDR)**  
+🏛️ Ayuntamiento de Navalcarnero  
+🎯 Monitorización, detección y respuesta frente a amenazas en el sistema informático municipal.  
+🔗 [Ver documento oficial (PDF)](https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=Yxue92Q4V85%2Bu07eiqQF/aPIKZQYFY%2BdBS%2BC8XgUYvVamWhgA2380hsEvgTlqj4YPYb4JjpruR7E/reQeWQswOnjPmwaIbvaxOjgFbsCF/dJOVDbGCDM%2BMigrvuVS7Rv&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D)
 
-Mi trabajo se centra en:
-
-- Redacción y supervisión de Pliegos de Prescripciones Técnicas (PPT) para licitaciones TIC.
-- Evaluación de propuestas técnicas de proveedores.
-- Coordinación de proyectos tecnológicos en entornos públicos.
-- Alineamiento de la contratación con normativas como ENS, RGPD y LCSP.
-
-## 🧠 Informes destacados
-
-- [Informe técnico sobre infraestructura cloud y VDC](docs/informe-infraestructura-cloud.md)
-- [Análisis de requisitos para servicio de backup y DRaaS](docs/informe-backup-draas.md)
-- [Prescripciones técnicas sobre soporte técnico y SLA](docs/informe-soporte-sla.md)
+> Documento redactado como parte de mis funciones técnicas en contratación TIC, con foco en ciberseguridad gestionada, respuesta a incidentes y cumplimiento del ENS.
 
 ## 📘 Documentación extendida
 
-👉 Consulta la [Wiki del proyecto](https://github.com/usuario/repositorio/wiki) para ver:
-- Contexto legal y normativo
-- Estructura argumental de los informes
-- Buenas prácticas en redacción técnica
+Consulta la [Wiki del repositorio](https://github.com/usuario/repositorio/wiki) para conocer:
+- Enfoque metodológico de redacción técnica
+- Buenas prácticas aplicadas
+- Integración con normativas y estándares
 
 ## 📬 Contacto
 
-Puedes escribirme directamente a través de mi perfil de GitHub o LinkedIn.
-
+Para más información o para contactar profesionalmente, puedes escribirme a través de mi perfil de GitHub o LinkedIn.
