@@ -1,6 +1,6 @@
-# 🛡️ Informes Técnicos | Pliegos de Prescripciones Técnicas TIC
+# 🛡️ Informes Técnicos |Memorias Técnicas y Pliegos de Prescripciones Técnicas TIC
 
-Este repositorio recoge informes técnicos y pliegos de prescripciones redactados en el contexto de la contratación pública TIC. Reflejan mi experiencia en la definición de requisitos funcionales, criterios técnicos y medidas de seguridad en entornos de administración pública.
+Este repositorio recoge informes técnicos, memorias técnicas y pliegos de prescripciones redactados en el contexto de la contratación pública TIC. Reflejan mi experiencia en la definición de requisitos funcionales, criterios técnicos y medidas de seguridad en entornos de administración pública.
 
 ## 📄 Informe destacado (documento oficial publicado)
 
