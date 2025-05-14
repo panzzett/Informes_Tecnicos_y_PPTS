@@ -13,7 +13,7 @@ Este repositorio recoge informes técnicos y pliegos de prescripciones redactado
 
 ## 📘 Documentación extendida
 
-Consulta la [Wiki del repositorio](https://github.com/usuario/repositorio/wiki) para conocer:
+Consulta la [Wiki del repositorio]([https://github.com/usuario/repositorio/wiki](https://github.com/panzzett/Informes_Tecnicos_y_PPTS/wiki)) para conocer:
 - Enfoque metodológico de redacción técnica
 - Buenas prácticas aplicadas
 - Integración con normativas y estándares
